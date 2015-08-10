@@ -1,0 +1,22 @@
+{
+	"name": "dimadin/disable-automatic-background-updates",
+	"description": "Disable all automatic background updates.",
+	"keywords": ["update","automatic update"],
+	"type": "wordpress-plugin",
+	"homepage": "http://blog.milandinic.com/wordpress/plugins/disable-automatic-background-updates/",
+	"license": "GPL-2.0+",
+	"authors": [
+		{
+			"name": "Milan Dinić",
+			"email": "milan@srpski.biz",
+			"homepage": "http://blog.milandinic.com/"
+		}
+	],
+	"support": {
+		"issues": "https://github.com/dimadin/disable-automatic-background-updates/issues",
+		"source": "https://github.com/dimadin/disable-automatic-background-updates"
+	},
+	"require": {
+		"composer/installers": "~1.0"
+	}
+}
