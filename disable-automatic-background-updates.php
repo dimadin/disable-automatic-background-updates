@@ -11,10 +11,10 @@
 
 /**
  * Plugin Name: Disable Automatic Background Updates
- * Plugin URI:  http://blog.milandinic.com/wordpress/plugins/disable-automatic-background-updates/
+ * Plugin URI:  https://milandinic.com/wordpress/plugins/disable-automatic-background-updates/
  * Description: Disable all automatic background updates.
  * Author:      Milan Dinić
- * Author URI:  http://blog.milandinic.com/
+ * Author URI:  https://milandinic.com/
  * Version:     1.0
  * Text Domain: disable-automatic-background-updates
  * Domain Path: /languages/
